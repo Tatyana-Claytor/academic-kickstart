@@ -38,9 +38,7 @@ education:
   - course: M.Ed Technology Integration
     institution: Nova Southeastern University
     year: 2009
-  - course: B.S. in Secondary Education English
-    institution: Toccoa Falls Colllege
-    year: 2002
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
