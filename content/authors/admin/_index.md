@@ -23,9 +23,9 @@ bio: My research interests include virtual education, science fiction, cinema, a
 
 interests:
 - Virtual education
-- Children's and YA Science fiction and Fantasy
+- Children's and YA Science fiction and Fantasy Literature
 - Cinema
-- Faith
+
 
 education:
   courses:
@@ -72,4 +72,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Tatyana Claytor is an online English instructor at Florida Virtual School. Her research interests include virtual education, Children and YA Science fiction and fantasy, cinema, and faith. 
+Tatyana Claytor is an online English instructor at Florida Virtual School. Her research interests include virtual education, Children and YA Science fiction and fantasy, cinema, and faith.
