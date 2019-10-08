@@ -72,4 +72,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Tatyana Claytor is an online English instructor at Florida Virtual School. Her research interests include virtual education, Children and YA Science fiction and fantasy, cinema, and faith.
+Tatyana Claytor is an online English instructor at Florida Virtual School. Her research interests include virtual education, Children and YA Science fiction and fantasy, and cinema.
