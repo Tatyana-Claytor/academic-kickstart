@@ -33,7 +33,7 @@ subtitle = ""
   description = "50%"
 
   [[feature]]
-    icon = "Google"
+    icon = "google"
     icon_pack = "fab"
     name = "google"
     description = "90%"
