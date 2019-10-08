@@ -19,7 +19,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include virtual education, science fiction, cinema, and faith.
+bio: My research interests include virtual education, Children's and YA science fiction and fantasy, cinema.
 
 interests:
 - Virtual education
