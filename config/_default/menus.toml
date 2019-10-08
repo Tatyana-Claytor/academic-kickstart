@@ -28,7 +28,7 @@
   url = "#featured"
   weight = 50
 
-[[main]]
+#[[main]]
   #name = "Contact"
   #url = "#contact"
 #  weight = 60
