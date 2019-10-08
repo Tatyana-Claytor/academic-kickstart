@@ -27,9 +27,15 @@ subtitle = ""
   description = "60%"  
 
 [[feature]]
-  icon = "Markdown"
+  icon = "markdown"
   icon_pack = "fab"
   name = "Markdown"
   description = "50%"
+
+  [[feature]]
+    icon = "Google"
+    icon_pack = "fab"
+    name = "google"
+    description = "90%"
 
 +++
