@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   #location = "California"
   date_start = "July 2018"
   date_end = ""
-  description = "Reponsible for content cultivation primarily through our publisher relationships, keeping current with new book releases, seeking permissions for excerpt reprint and adaptation, adapting book excerpts and doing occasional proofreading"
+  description = "Responsible for content cultivation primarily through our publisher relationships, keeping current with new book releases, seeking permissions for excerpt reprint and adaptation, adapting book excerpts and doing occasional proofreading"
   Responsibilities include:
 
   * Analysing
